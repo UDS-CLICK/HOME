@@ -1,1 +1,1 @@
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://udsfoundation.webs.com/click" style="border: none; height: 1480px; width: 1000px;"> </iframe>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://udsfoundation.webs.com/click" style="border: none; height: 1470px; width: 1000px;"> </iframe>
